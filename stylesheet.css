@@ -52,6 +52,7 @@ a:hover {
     color: rgb(18, 95, 49);
 }
 
+/* Use a CSS selector to apply style(s) to at least one HTML tag */
 h2 {
     font-family: "Pixelify Sans", sans-serif;
     font-size: 2.2rem;
